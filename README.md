@@ -1,6 +1,6 @@
 # ✅Form Validation
 
-This is a fully functional and responsive **Contact Form** built using **HTML, CSS, and JavaScript**. It includes real-time input validation and shows a green tick (✔️) icon when the input is valid using **Font Awesome**.
+This is a fully functional and responsive **Form** built using **HTML, CSS, and JavaScript**. It includes real-time input validation and shows a green tick (✔️) icon when the input is valid using **Font Awesome**.
 
 ## 📌 Features
 - Real-time input validation for:
